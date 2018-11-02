@@ -5,8 +5,12 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Version>0.1.0</Version>
-    <Description>Fluent syntax for decompressing archives like *.rar, powered by SharpCompress</Description>
+    <Description>Fluent syntax for decompressing archives, powered by SharpCompress.</Description>
     <PackageReleaseNotes>Support for *.rar files.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/fluorine/FluentDecompressor</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Copyright>(c) 2018</Copyright>
+    <RepositoryUrl>https://github.com/fluorine/FluentDecompressor</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
